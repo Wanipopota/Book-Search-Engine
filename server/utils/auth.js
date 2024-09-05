@@ -5,7 +5,6 @@ const { GraphQLError } = require('graphql');
 // Setting token secret and expiration date from environment variables
 const secret = process.env.JWT_SECRET;
 const expiration = '2h';
-
 // Exporting authentication-related functions and an AuthenticationError
 module.exports = {
   // Function for handling authentication middleware
