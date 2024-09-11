@@ -7,7 +7,7 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Hanbyeol Justin Lee",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@apollo/server": "^4.10.1",
@@ -20,14 +20,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/justinsta624/MERNing365.git"
-  },
-  "bugs": {
-    "url": "https://github.com/justinsta624/MERNing365/issues"
-  },
-  "homepage": "https://github.com/justinsta624/MERNing365#readme",
-  "description": ""
+  }
 }
